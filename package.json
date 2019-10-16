@@ -1,0 +1,11 @@
+{
+  "name": "object-signature-match",
+  "version": "0.0.0",
+  "description": "see if two objects have same keys and value types",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Hastings",
+  "license": "MIT"
+}
